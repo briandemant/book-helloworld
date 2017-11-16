@@ -1,0 +1,45 @@
+/* OVERRIDES */
+.markdown-section {
+	font-size: 1.7rem;
+	line-height: 1.5;
+}
+
+.markdown-section blockquote {
+	color: auto;
+}
+
+.video-wrapper {
+	position: relative;
+	padding-bottom: 56.25%;
+	/* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+
+.video-wrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.mobile-visible {
+	display: none;
+}
+.mobile-hidden {
+	display: inherit;
+}
+
+/*
+  These rules only apply to screens less than 600px wide.
+  They override rules placed earlier in this file.
+*/
+@media only screen and (max-width: 600px) {
+	.mobile-visible {
+		display: inherit;
+	}
+	.mobile-hidden {
+		display: none;
+	}
+}
