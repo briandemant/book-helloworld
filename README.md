@@ -6,7 +6,7 @@ This file file serves as your book's preface, a great place to describe your boo
 | :--- | :---: |
 | oh noo | this does not make any sense? |
 
-#### qweqweqe
+#### she is ugly .. she looks like my sister!
 
 ![](/assets/pic_002.jpg)
 
