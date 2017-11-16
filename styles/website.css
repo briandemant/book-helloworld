@@ -13,8 +13,7 @@
 	padding-bottom: 56.25%;
 	/* 16:9 */
 	padding-top: 25px;
-	width: 640px;
-	height: 480px;
+	height: 0;
 }
 
 .video-wrapper iframe {
