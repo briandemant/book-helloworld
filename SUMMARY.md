@@ -3,10 +3,11 @@
 ## something
 
 * [First Chapter](Chapter_01.md)
+* [Second Chapter](Chapter_02.md)
 * [The Readme](README.md)
 
 
 ## more
 
-* [Second Chapter](Chapter_02.md)
 * [The Readme](README.md)
+* [The Glossary](Glossary.md)
